@@ -1,0 +1,25 @@
+/*
+ Declaración de una función, puede ser void si no retorna nada, o int, string, char, etc si retorna un tipo de variable
+*/
+
+int function_name(int num1, int num2){
+	int num3 = num1 + num2;
+
+	return num3
+}
+
+// Declaración de variables
+
+
+
+if(){
+	
+}
+
+while(){
+	
+}
+
+for(int a; a < b; a++){
+	
+}
